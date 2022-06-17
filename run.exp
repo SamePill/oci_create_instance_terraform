@@ -1,0 +1,6 @@
+expect << EOL
+spawn ./terraform apply
+expect "Enter a value" 
+send "yes\r"
+expect eof
+EOL

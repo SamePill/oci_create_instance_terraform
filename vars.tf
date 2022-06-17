@@ -1,0 +1,14 @@
+variable "availability_domain" {default = "EBsw:AP-CHUNCHEON-1-AD-1"}  
+variable "private_key_path" {default = "./api_.pem"} 
+variable "tenancy_ocid" {default = "ocid1.tenancy.oc1.."}
+variable "region" {default = "ap-..."}
+variable "fingerprint" {default = "a3:63:"}
+variable "user_ocid" {default = "ocid1.user.oc1.."}
+variable "image_name" {default = "ocid1.image.oc1.."}
+variable "compartment_ocid" {default = "ocid1.compartment.oc1.."}
+variable "public_subnet_ocid" {default = "ocid1.subnet.oc1.."}
+variable "ssh_pub_key_path" {default = "./ssh-key_.key.pub"}
+variable "shape" {default = "VM.Standard.A1.Flex"} 
+variable "ocpu" {default = 1}
+variable "mem" {default = 4}
+variable "display_name" {default = "name"}
