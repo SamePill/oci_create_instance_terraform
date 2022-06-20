@@ -2,7 +2,7 @@
 
 1. install Terraform
     ```
-    install_on_ubuntu (for Ubuntu/Devian)
+    install_on_ubuntu.sh (for Ubuntu/Devian)
     install_on_mac.sh (for mac)
     install_on_centos.sh (for CentOS/RHEL)
     - Install shell scripts include initialization and plan.
