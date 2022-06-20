@@ -10,5 +10,5 @@
     > You can download from https://www.terraform.io/downloads
 2. Create OCI API Key on OCI profile page.
 3. Set your OCI connectin information on vars.tf
-4. Run "run.sh". It try to create instance maximum 1000times.
+4. Run "run.sh". It try to create instance maximum 1,000times.
     > You can edit maximum tring on run.sh
