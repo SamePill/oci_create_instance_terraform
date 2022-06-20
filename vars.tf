@@ -1,4 +1,4 @@
-variable "availability_domain" {default = "EBsw:AP-CHUNCHEON-1-AD-1"}  
+variable "availability_domain" {default = "EBsw:AP-..."}  
 variable "private_key_path" {default = "./api_.pem"} 
 variable "tenancy_ocid" {default = "ocid1.tenancy.oc1.."}
 variable "region" {default = "ap-..."}
