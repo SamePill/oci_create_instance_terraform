@@ -22,6 +22,8 @@
     > run.sh : run creating instance Terraform script
 
     > run.exp : input "yes" automatically
+    
+    > unlock.sh : When finish shell unexpectly, It release locked terraform.
 
 
 2. Terraform HCL
